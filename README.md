@@ -68,7 +68,7 @@
 
   * 💬 I'm a Brazilian living in Portugal, looking for a career transition. I am proficient in English and Spanish. I've been working in logistics since 2010, which has helped me develop important skills such as organization, assertive communication, analytical ability and problem-solving.
 
-  * ⚡ As well as coding, I love games of all types, music of all styles, and I'm an excellent sports viewer! \o/
+  * ⚡ As well as coding, I love games of all types, music of all styles, and I'm an excellent sports viewer! 😬
 </details>
 
   

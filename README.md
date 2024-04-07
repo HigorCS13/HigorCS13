@@ -58,9 +58,9 @@
 
 <div> 
 <a href="https://www.instagram.com/higorcs13/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "mailto:higor.c.silva13@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=#EA4335" target="_blank"></a>
-<a href="https://www.linkedin.com/in/higorcunhasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://profile.intra.42.fr/users/hicunha-" target="_blank"><img src="https://img.shields.io/badge/-42 Porto-%23000000?style=for-the-badge&logo=42&logoColor=#000000"  target="_blank"></a> 
+<a href = "mailto:higor.c.silva13@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=#EA4335"></a>
+<a href="https://www.linkedin.com/in/higorcunhasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://profile.intra.42.fr/users/hicunha-" target="_blank"><img src="https://img.shields.io/badge/-42 Porto-%23000000?style=for-the-badge&logo=42&logoColor=#000000"></a> 
 </div>&nbsp;&nbsp;
  
 

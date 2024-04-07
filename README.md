@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=7fff00&lines=Hi+There!+🤙🏻;+I'm+Higor+(aka.+hicunha-)!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&color=7fff00&lines=Hi+There!+🤙🏻;+I'm+Higor+(aka.+hicunha-)!;" />
 </h1>
 
 <p align="left">A 42 cadet in search of knowledge and experience (and to automate as many things as possible).</p>&nbsp;
@@ -62,7 +62,14 @@
 <a href="https://www.linkedin.com/in/higorcunhasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://profile.intra.42.fr/users/hicunha-" target="_blank"><img src="https://img.shields.io/badge/-42 Porto-%23000000?style=for-the-badge&logo=42&logoColor=#000000"></a> 
 </div>&nbsp;&nbsp;
- 
+
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  * 💬 I'm a Brazilian living in Portugal, looking for a career transition. I am proficient in English and Spanish. I've been working in logistics since 2010, which has helped me develop important skills such as organization, assertive communication, analytical ability and problem-solving.
+
+  * ⚡ As well as coding, I love games of all types, music of all styles, and I'm an excellent sports viewer! \o/
+</details>
 
   
   

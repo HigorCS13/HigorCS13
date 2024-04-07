@@ -4,8 +4,8 @@
 <p align="left">A 42 cadet in search of knowledge and experience (and to automate as many things as possible).</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=HigorCS13&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-nine-psi-18.vercel.app/api/top-langs/?username=HigorCS13&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=HigorCS13&theme=chartreuse-dark&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-nine-psi-18.vercel.app/api/top-langs/?username=HigorCS13&show_icons=true&theme=chartreuse-dark&layout=compact" />
  </div>
  
  &nbsp;
@@ -27,8 +27,8 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 
-<img src="coding.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Codegif">
 
+<img src="coding.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Codegif">
 
 #### Databases:
 
@@ -58,4 +58,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7fff00&height=120&section=footer"/>

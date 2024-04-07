@@ -27,7 +27,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
-<img src="coding.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Codegif">
+<img src="resources/coding.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Codegif">
 
 #### Databases:
 
